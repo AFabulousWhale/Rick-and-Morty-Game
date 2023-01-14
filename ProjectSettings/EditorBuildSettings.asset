@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: d3b9309d2cff58f4d99e069659a6971b
+  - enabled: 1
+    path: Assets/Scenes/Chose Character.unity
+    guid: b4f1c00de73cf4a46a21a5bf343e3a75
+  - enabled: 1
+    path: Assets/Scenes/Game RNM.unity
+    guid: 225806ef3393d324b846e787afd48c2a
+  - enabled: 1
+    path: Assets/Scenes/Game Summer.unity
+    guid: f9842e04029b68e4c89d7a00e3cec119
+  - enabled: 1
+    path: Assets/Scenes/Game Jerry.unity
+    guid: b8aac0b1dbd3f4244b1a66977aa409d6
+  - enabled: 1
+    path: Assets/Scenes/Game Beth.unity
+    guid: 859f7259101b44244ba1d40ba5ab6328
+  - enabled: 1
+    path: Assets/Scenes/Game Over.unity
+    guid: ba11acfdea28d534c947e519dfde386d
+  - enabled: 1
+    path: Assets/Scenes/Leaderboard.unity
+    guid: 434f51816532d9642912ab674eecb3ec
+  m_configObjects: {}
